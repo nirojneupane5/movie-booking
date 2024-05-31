@@ -1,0 +1,9 @@
+/* BookMovie.css */
+.horizontal-items {
+    display: flex; /* Use Flexbox to horizontally align items */
+  }
+  
+  .horizontal-items button {
+    margin-right: 5px; /* Add some space between buttons */
+  }
+  
